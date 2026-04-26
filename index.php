@@ -1,3 +1,3 @@
 <?php
-header('Location: devigolf-batam.html');
+header('Location: /devigolf-batam.html');
 exit;
